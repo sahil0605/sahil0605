@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently learning MERN Stack Development<br><br>👨‍💻 All of my projects are available at https://lucent-gaufre-765cdc.netlify.app/<br><br>💬 Ask me about React , DSA , C++<br><br>📫 How to reach me sahilsinghsolanki2460@gmail.com<br><br>See my problem solving skills at https://leetcode.com/sahil0605/
+ I’m currently learning MERN Stack Development<br><br>👨‍💻 All of my projects are available at https://lucent-gaufre-765cdc.netlify.app/<br><br>💬 Ask me about MERN , DSA , C++<br><br>📫 How to reach me sahilsinghsolanki2460@gmail.com<br><br>See my problem solving skills at https://leetcode.com/sahil0605/
 
 
 ## 🌐 Socials:
